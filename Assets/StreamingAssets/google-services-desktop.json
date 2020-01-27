@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "6796689780",
+    "firebase_url": "https://fir-unity-62bbe.firebaseio.com",
+    "project_id": "fir-unity-62bbe",
+    "storage_bucket": "fir-unity-62bbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6796689780:android:f300ba4ebea871c0",
+        "android_client_info": {
+          "package_name": "com.debuggers.firebaseunity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6796689780-km0qb94a8vpip15rrao9cmiu5hiv5bi5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm8ixbkUYNgrAiyB5_d9OBo7QvAAba2Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6796689780-km0qb94a8vpip15rrao9cmiu5hiv5bi5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
